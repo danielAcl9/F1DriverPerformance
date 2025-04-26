@@ -1,0 +1,101 @@
+RaceRound,RaceName,DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosition,PositionGainLoss,Gap to Winner,Points
+1,Australian Grand Prix,4,NOR,Lando Norris,McLaren,1.0,1.0,0.0,0.0,25.0
+1,Australian Grand Prix,1,VER,Max Verstappen,Red Bull Racing,2.0,3.0,1.0,0.895,18.0
+1,Australian Grand Prix,63,RUS,George Russell,Mercedes,3.0,4.0,1.0,8.481,15.0
+1,Australian Grand Prix,12,ANT,Andrea Kimi Antonelli,Mercedes,4.0,16.0,12.0,10.135,12.0
+1,Australian Grand Prix,23,ALB,Alexander Albon,Williams,5.0,6.0,1.0,12.773,10.0
+1,Australian Grand Prix,18,STR,Lance Stroll,Aston Martin,6.0,13.0,7.0,17.413,8.0
+1,Australian Grand Prix,27,HUL,Nico Hulkenberg,Kick Sauber,7.0,17.0,10.0,18.423,6.0
+1,Australian Grand Prix,16,LEC,Charles Leclerc,Ferrari,8.0,7.0,-1.0,19.826,4.0
+1,Australian Grand Prix,81,PIA,Oscar Piastri,McLaren,9.0,2.0,-7.0,20.448,2.0
+1,Australian Grand Prix,44,HAM,Lewis Hamilton,Ferrari,10.0,8.0,-2.0,22.473,1.0
+1,Australian Grand Prix,10,GAS,Pierre Gasly,Alpine,11.0,9.0,-2.0,26.502,0.0
+1,Australian Grand Prix,22,TSU,Yuki Tsunoda,Racing Bulls,12.0,5.0,-7.0,29.884,0.0
+1,Australian Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,13.0,19.0,6.0,33.161,0.0
+1,Australian Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,14.0,20.0,6.0,40.351,0.0
+1,Australian Grand Prix,30,LAW,Liam Lawson,Red Bull Racing,15.0,18.0,3.0,,0.0
+1,Australian Grand Prix,5,BOR,Gabriel Bortoleto,Kick Sauber,16.0,15.0,-1.0,,0.0
+1,Australian Grand Prix,14,ALO,Fernando Alonso,Aston Martin,17.0,12.0,-5.0,,0.0
+1,Australian Grand Prix,55,SAI,Carlos Sainz,Williams,18.0,10.0,-8.0,,0.0
+1,Australian Grand Prix,7,DOO,Jack Doohan,Alpine,19.0,14.0,-5.0,,0.0
+1,Australian Grand Prix,6,HAD,Isack Hadjar,Racing Bulls,20.0,11.0,-9.0,,0.0
+2,Chinese Grand Prix,81,PIA,Oscar Piastri,McLaren,1.0,1.0,0.0,0.0,25.0
+2,Chinese Grand Prix,4,NOR,Lando Norris,McLaren,2.0,3.0,1.0,9.748,18.0
+2,Chinese Grand Prix,63,RUS,George Russell,Mercedes,3.0,2.0,-1.0,11.097,15.0
+2,Chinese Grand Prix,1,VER,Max Verstappen,Red Bull Racing,4.0,4.0,0.0,16.656,12.0
+2,Chinese Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,5.0,11.0,6.0,49.969,10.0
+2,Chinese Grand Prix,12,ANT,Kimi Antonelli,Mercedes,6.0,8.0,2.0,53.748,8.0
+2,Chinese Grand Prix,23,ALB,Alexander Albon,Williams,7.0,10.0,3.0,56.321,6.0
+2,Chinese Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,8.0,17.0,9.0,61.303,4.0
+2,Chinese Grand Prix,18,STR,Lance Stroll,Aston Martin,9.0,14.0,5.0,70.204,2.0
+2,Chinese Grand Prix,55,SAI,Carlos Sainz,Williams,10.0,15.0,5.0,76.387,1.0
+2,Chinese Grand Prix,6,HAD,Isack Hadjar,Racing Bulls,11.0,7.0,-4.0,78.875,0.0
+2,Chinese Grand Prix,30,LAW,Liam Lawson,Red Bull Racing,12.0,20.0,8.0,81.147,0.0
+2,Chinese Grand Prix,7,DOO,Jack Doohan,Alpine,13.0,18.0,5.0,88.401,0.0
+2,Chinese Grand Prix,5,BOR,Gabriel Bortoleto,Kick Sauber,14.0,19.0,5.0,10.756,0.0
+2,Chinese Grand Prix,27,HUL,Nico Hulkenberg,Kick Sauber,15.0,12.0,-3.0,20.226,0.0
+2,Chinese Grand Prix,22,TSU,Yuki Tsunoda,Racing Bulls,16.0,9.0,-7.0,23.511,0.0
+2,Chinese Grand Prix,14,ALO,Fernando Alonso,Aston Martin,17.0,13.0,-4.0,,0.0
+2,Chinese Grand Prix,16,LEC,Charles Leclerc,Ferrari,18.0,6.0,-12.0,,0.0
+2,Chinese Grand Prix,44,HAM,Lewis Hamilton,Ferrari,19.0,5.0,-14.0,,0.0
+2,Chinese Grand Prix,10,GAS,Pierre Gasly,Alpine,20.0,16.0,-4.0,,0.0
+3,Japanese Grand Prix,1,VER,Max Verstappen,Red Bull Racing,1.0,1.0,0.0,0.0,25.0
+3,Japanese Grand Prix,4,NOR,Lando Norris,McLaren,2.0,2.0,0.0,1.423,18.0
+3,Japanese Grand Prix,81,PIA,Oscar Piastri,McLaren,3.0,3.0,0.0,2.129,15.0
+3,Japanese Grand Prix,16,LEC,Charles Leclerc,Ferrari,4.0,4.0,0.0,16.097,12.0
+3,Japanese Grand Prix,63,RUS,George Russell,Mercedes,5.0,5.0,0.0,17.362,10.0
+3,Japanese Grand Prix,12,ANT,Kimi Antonelli,Mercedes,6.0,6.0,0.0,18.671,8.0
+3,Japanese Grand Prix,44,HAM,Lewis Hamilton,Ferrari,7.0,8.0,1.0,29.182,6.0
+3,Japanese Grand Prix,6,HAD,Isack Hadjar,Racing Bulls,8.0,7.0,-1.0,37.134,4.0
+3,Japanese Grand Prix,23,ALB,Alexander Albon,Williams,9.0,9.0,0.0,40.367,2.0
+3,Japanese Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,10.0,10.0,0.0,54.529,1.0
+3,Japanese Grand Prix,14,ALO,Fernando Alonso,Aston Martin,11.0,12.0,1.0,57.333,0.0
+3,Japanese Grand Prix,22,TSU,Yuki Tsunoda,Red Bull Racing,12.0,14.0,2.0,58.401,0.0
+3,Japanese Grand Prix,10,GAS,Pierre Gasly,Alpine,13.0,11.0,-2.0,62.122,0.0
+3,Japanese Grand Prix,55,SAI,Carlos Sainz,Williams,14.0,15.0,1.0,74.129,0.0
+3,Japanese Grand Prix,7,DOO,Jack Doohan,Alpine,15.0,19.0,4.0,81.314,0.0
+3,Japanese Grand Prix,27,HUL,Nico Hulkenberg,Kick Sauber,16.0,16.0,0.0,81.957,0.0
+3,Japanese Grand Prix,30,LAW,Liam Lawson,Racing Bulls,17.0,13.0,-4.0,82.734,0.0
+3,Japanese Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,18.0,18.0,0.0,83.438,0.0
+3,Japanese Grand Prix,5,BOR,Gabriel Bortoleto,Kick Sauber,19.0,17.0,-2.0,83.897,0.0
+3,Japanese Grand Prix,18,STR,Lance Stroll,Aston Martin,20.0,20.0,0.0,12.929,0.0
+4,Bahrain Grand Prix,81,PIA,Oscar Piastri,McLaren,1.0,1.0,0.0,0.0,25.0
+4,Bahrain Grand Prix,63,RUS,George Russell,Mercedes,2.0,3.0,1.0,15.499,18.0
+4,Bahrain Grand Prix,4,NOR,Lando Norris,McLaren,3.0,6.0,3.0,16.273,15.0
+4,Bahrain Grand Prix,16,LEC,Charles Leclerc,Ferrari,4.0,2.0,-2.0,19.679,12.0
+4,Bahrain Grand Prix,44,HAM,Lewis Hamilton,Ferrari,5.0,9.0,4.0,27.993,10.0
+4,Bahrain Grand Prix,1,VER,Max Verstappen,Red Bull Racing,6.0,7.0,1.0,34.395,8.0
+4,Bahrain Grand Prix,10,GAS,Pierre Gasly,Alpine,7.0,4.0,-3.0,36.002,6.0
+4,Bahrain Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,8.0,14.0,6.0,44.244,4.0
+4,Bahrain Grand Prix,22,TSU,Yuki Tsunoda,Red Bull Racing,9.0,10.0,1.0,45.061,2.0
+4,Bahrain Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,10.0,20.0,10.0,47.594,1.0
+4,Bahrain Grand Prix,12,ANT,Kimi Antonelli,Mercedes,11.0,5.0,-6.0,48.016,0.0
+4,Bahrain Grand Prix,23,ALB,Alexander Albon,Williams,12.0,15.0,3.0,48.839,0.0
+4,Bahrain Grand Prix,6,HAD,Isack Hadjar,Racing Bulls,13.0,12.0,-1.0,56.314,0.0
+4,Bahrain Grand Prix,7,DOO,Jack Doohan,Alpine,14.0,11.0,-3.0,57.806,0.0
+4,Bahrain Grand Prix,14,ALO,Fernando Alonso,Aston Martin,15.0,13.0,-2.0,60.34,0.0
+4,Bahrain Grand Prix,30,LAW,Liam Lawson,Racing Bulls,16.0,17.0,1.0,64.435,0.0
+4,Bahrain Grand Prix,18,STR,Lance Stroll,Aston Martin,17.0,19.0,2.0,65.489,0.0
+4,Bahrain Grand Prix,5,BOR,Gabriel Bortoleto,Kick Sauber,18.0,18.0,0.0,66.872,0.0
+4,Bahrain Grand Prix,55,SAI,Carlos Sainz,Williams,19.0,8.0,-11.0,,0.0
+4,Bahrain Grand Prix,27,HUL,Nico Hulkenberg,Kick Sauber,20.0,16.0,-4.0,,0.0
+5,Saudi Arabian Grand Prix,81,PIA,Oscar Piastri,McLaren,1.0,2.0,1.0,0.0,25.0
+5,Saudi Arabian Grand Prix,1,VER,Max Verstappen,Red Bull Racing,2.0,1.0,-1.0,2.843,18.0
+5,Saudi Arabian Grand Prix,16,LEC,Charles Leclerc,Ferrari,3.0,4.0,1.0,8.104,15.0
+5,Saudi Arabian Grand Prix,4,NOR,Lando Norris,McLaren,4.0,10.0,6.0,9.196,12.0
+5,Saudi Arabian Grand Prix,63,RUS,George Russell,Mercedes,5.0,3.0,-2.0,27.236,10.0
+5,Saudi Arabian Grand Prix,12,ANT,Kimi Antonelli,Mercedes,6.0,5.0,-1.0,34.688,8.0
+5,Saudi Arabian Grand Prix,44,HAM,Lewis Hamilton,Ferrari,7.0,7.0,0.0,39.073,6.0
+5,Saudi Arabian Grand Prix,55,SAI,Carlos Sainz,Williams,8.0,6.0,-2.0,64.63,4.0
+5,Saudi Arabian Grand Prix,23,ALB,Alexander Albon,Williams,9.0,11.0,2.0,66.515,2.0
+5,Saudi Arabian Grand Prix,6,HAD,Isack Hadjar,Racing Bulls,10.0,14.0,4.0,67.091,1.0
+5,Saudi Arabian Grand Prix,14,ALO,Fernando Alonso,Aston Martin,11.0,13.0,2.0,75.917,0.0
+5,Saudi Arabian Grand Prix,30,LAW,Liam Lawson,Racing Bulls,12.0,12.0,0.0,78.451,0.0
+5,Saudi Arabian Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,13.0,15.0,2.0,79.194,0.0
+5,Saudi Arabian Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,14.0,19.0,5.0,99.723,0.0
+5,Saudi Arabian Grand Prix,27,HUL,Nico Hulkenberg,Kick Sauber,15.0,18.0,3.0,4.609,0.0
+5,Saudi Arabian Grand Prix,18,STR,Lance Stroll,Aston Martin,16.0,16.0,0.0,5.527,0.0
+5,Saudi Arabian Grand Prix,7,DOO,Jack Doohan,Alpine,17.0,17.0,0.0,19.264,0.0
+5,Saudi Arabian Grand Prix,5,BOR,Gabriel Bortoleto,Kick Sauber,18.0,20.0,2.0,19.306,0.0
+5,Saudi Arabian Grand Prix,22,TSU,Yuki Tsunoda,Red Bull Racing,19.0,8.0,-11.0,,0.0
+5,Saudi Arabian Grand Prix,10,GAS,Pierre Gasly,Alpine,20.0,9.0,-11.0,,0.0
