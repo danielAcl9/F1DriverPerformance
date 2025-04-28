@@ -1,9 +1,5 @@
 # F1DriverPerformance
 
-Claro, aquí tienes una **versión más formal y tipo startup/profesional**, enfocada *solo* en lo que ya has completado:
-
----
-
 ## Project Overview
 
 This project develops a foundational data pipeline leveraging AWS services (S3, Athena, Glue) to analyze Formula 1 driver performance during the 2025 season.  
