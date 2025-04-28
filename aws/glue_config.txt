@@ -1,0 +1,11 @@
+AWS Glue Configuration:
+
+Glue Crawler Configuration:
+   - Name: f1-pipeline-crawler
+   - Description: Crawler to scan the F1 performance data in the S3 bucket and create tables in the Glue Data Catalog.
+   - S3 Bucket: s3://f1-pipeline-daniel2025
+   - S3 Folder Paths:
+     - raw/
+     - processed/
+   - Database: f1_pipeline_db
+   - Crawler Type: Incremental crawl (Crawl new sub-folders only)
