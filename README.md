@@ -38,7 +38,7 @@ The objective is to simulate real-world practices by automating the ingestion, s
 
 ## Data Flow Diagram
 
-![Data Pipeline Diagram]()
+![Data Pipeline Diagram](https://github.com/danielAcl9/F1DriverPerformance/blob/main/others/data_pipeline_schema.png)
 
 ## Key Results
 - **Top 5 Drivers by Points:** Query results showcasing the highest points earners.
