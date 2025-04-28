@@ -99,3 +99,23 @@ RaceRound,RaceName,DriverNumber,Abbreviation,FullName,TeamName,Position,GridPosi
 5,Saudi Arabian Grand Prix,5,BOR,Gabriel Bortoleto,Kick Sauber,18.0,20.0,2.0,19.306,0.0
 5,Saudi Arabian Grand Prix,22,TSU,Yuki Tsunoda,Red Bull Racing,19.0,8.0,-11.0,,0.0
 5,Saudi Arabian Grand Prix,10,GAS,Pierre Gasly,Alpine,20.0,9.0,-11.0,,0.0
+5,Chinese Grand Prix,44,HAM,Lewis Hamilton,Ferrari,1.0,1.0,0.0,0.0,8.0
+5,Chinese Grand Prix,81,PIA,Oscar Piastri,McLaren,2.0,3.0,1.0,6.889,7.0
+5,Chinese Grand Prix,1,VER,Max Verstappen,Red Bull Racing,3.0,2.0,-1.0,9.804,6.0
+5,Chinese Grand Prix,63,RUS,George Russell,Mercedes,4.0,5.0,1.0,11.592,5.0
+5,Chinese Grand Prix,16,LEC,Charles Leclerc,Ferrari,5.0,4.0,-1.0,12.19,4.0
+5,Chinese Grand Prix,22,TSU,Yuki Tsunoda,Racing Bulls,6.0,8.0,2.0,22.288,3.0
+5,Chinese Grand Prix,12,ANT,Andrea Kimi Antonelli,Mercedes,7.0,7.0,0.0,23.038,2.0
+5,Chinese Grand Prix,4,NOR,Lando Norris,McLaren,8.0,6.0,-2.0,23.471,1.0
+5,Chinese Grand Prix,18,STR,Lance Stroll,Aston Martin,9.0,10.0,1.0,24.916,0.0
+5,Chinese Grand Prix,14,ALO,Fernando Alonso,Aston Martin,10.0,11.0,1.0,38.218,0.0
+5,Chinese Grand Prix,23,ALB,Alexander Albon,Williams,11.0,9.0,-2.0,39.292,0.0
+5,Chinese Grand Prix,10,GAS,Pierre Gasly,Alpine,12.0,17.0,5.0,39.649,0.0
+5,Chinese Grand Prix,6,HAD,Isack Hadjar,Racing Bulls,13.0,15.0,2.0,42.4,0.0
+5,Chinese Grand Prix,30,LAW,Liam Lawson,Red Bull Racing,14.0,19.0,5.0,44.904,0.0
+5,Chinese Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,15.0,12.0,-3.0,45.649,0.0
+5,Chinese Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,16.0,18.0,2.0,46.182,0.0
+5,Chinese Grand Prix,55,SAI,Carlos Sainz,Williams,17.0,13.0,-4.0,51.376,0.0
+5,Chinese Grand Prix,5,BOR,Gabriel Bortoleto,Kick Sauber,18.0,14.0,-4.0,53.94,0.0
+5,Chinese Grand Prix,27,HUL,Nico Hulkenberg,Kick Sauber,19.0,20.0,1.0,56.682,0.0
+5,Chinese Grand Prix,7,DOO,Jack Doohan,Alpine,20.0,16.0,-4.0,70.212,0.0
